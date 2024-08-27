@@ -19,8 +19,8 @@ Tech-Stack I focus on:
 
 [![My Skills](https://skillicons.dev/icons?i=react,html,css,javascript,typescript,tailwind,bootstrap,express,nodejs,mongodb,sqlite,firebase,postman,figma&perline=7)](https://skillicons.dev)
 
-- ![React](https://cdn.simpleicons.org/react/000000)
-- ![HTML5](https://cdn.simpleicons.org/html5/000000)
+- ![React](https://cdn.simpleicons.org/react/000000) React
+- ![HTML5](https://cdn.simpleicons.org/html5/000000) HTML
 - ![CSS3](https://cdn.simpleicons.org/css3/000000)
 - ![JavaScript](https://cdn.simpleicons.org/javascript/000000)
 - ![TypeScript](https://cdn.simpleicons.org/typescript/000000)
