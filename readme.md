@@ -1,4 +1,4 @@
-## Hello stranger!
+<h3>Hello stranger!</h3>
 
 ✨ I am Vaclav - a Web Developer based in Berlin, nice to meet you. 
 
