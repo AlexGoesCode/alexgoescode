@@ -8,7 +8,8 @@ The app is functional, but still needs some styles polishing,<br>
 better responsivness, few extra features and a deployment.</p>
 
 <p>It is a satirical e-commerce style webshop, which is<br> 
-selling funny figures of politicians and powerful people.</p>
+selling funny figures of politicians and powerful people.<br>
+Product images are custom made with AI.</p>
 
 You can check the repo here
 
