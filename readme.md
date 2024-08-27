@@ -27,9 +27,6 @@ Tech-Stack I focus on:
   <img src="https://cdn.simpleicons.org/typescript/ffffff" alt="TypeScript" height="40"/>
   <img src="https://cdn.simpleicons.org/tailwindcss/ffffff" alt="Tailwind CSS" height="40"/>
   <img src="https://cdn.simpleicons.org/bootstrap/ffffff" alt="Bootstrap" height="40"/>
-</p>
-<p>
-  
   <img src="https://cdn.simpleicons.org/express/ffffff" alt="Express" height="40"/>
   <img src="https://cdn.simpleicons.org/nodedotjs/ffffff" alt="Node.js" height="40"/>
   <img src="https://cdn.simpleicons.org/mongodb/ffffff" alt="MongoDB" height="40"/>
