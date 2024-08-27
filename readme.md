@@ -4,14 +4,14 @@
 
 <p>Currently working on my most recent project "BobbleHeads - twisted e-commerce".<br> 
 It is made with MERN-Stack: React, Node.js, Express.js, MongoDB, TS.<br>
-The app is functional, but still needs some styles polishing,<br>
-better responsivness, few extra features and a deployment.</p>
 
 <p>It is a satirical e-commerce style webshop, which is<br> 
 selling funny figures of politicians and powerful people.<br>
-Product images are custom made with AI.</p>
+Product images are custom made with AI.<br>
+The app is functional, but still needs some styles polishing,<br>
+better responsivness, few extra features and a deployment.</p>
 
-You can check the repo here
+You can check the repos under this intro
 
 Tech-Stack I focus on:
 
