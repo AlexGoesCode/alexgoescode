@@ -2,7 +2,7 @@
 
 <h3>Hello stranger!</h3>
 
-✨ I am Vaclav - a Web Developer based in Berlin, nice to meet you. 
+✨ I am Vaclav - a former cook who turned Web Developer, nice to meet you. 
 
 <p>Currently working on my most recent project "BobbleHeads - twisted e-commerce".<br> 
 It is made with MERN-Stack: React, Node.js, Express.js, MongoDB, TS.<br>
@@ -36,7 +36,7 @@ Tech-Stack I focus on:
 
 
 
-I am currently seeking a new job opportunity so hit me up :)
+I am currently seeking a new job opportunity in Berlin or remote, so hit me up :)
 
 reach me at:<br> 
 v.kyslik@gmail.com<br>
