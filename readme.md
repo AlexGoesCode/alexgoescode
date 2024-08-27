@@ -19,24 +19,25 @@ Tech-Stack I focus on:
 
 [![My Skills](https://skillicons.dev/icons?i=react,html,css,javascript,typescript,tailwind,bootstrap,express,nodejs,mongodb,sqlite,firebase,postman,figma&perline=7)](https://skillicons.dev)
 
-<p align="center">
-  <img src="https://cdn.simpleicons.org/react/000000" alt="React" height="40"/>
-  <img src="https://cdn.simpleicons.org/html5/000000" alt="HTML5" height="40"/>
-  <img src="https://cdn.simpleicons.org/css3/000000" alt="CSS3" height="40"/>
-  <img src="https://cdn.simpleicons.org/javascript/000000" alt="JavaScript" height="40"/>
-  <img src="https://cdn.simpleicons.org/typescript/000000" alt="TypeScript" height="40"/>
-  <img src="https://cdn.simpleicons.org/tailwindcss/000000" alt="Tailwind CSS" height="40"/>
+<p>
+  <img src="https://cdn.simpleicons.org/react/ffffff" alt="React" height="40"/>
+  <img src="https://cdn.simpleicons.org/html5/ffffff" alt="HTML5" height="40"/>
+  <img src="https://cdn.simpleicons.org/css3/ffffff" alt="CSS3" height="40"/>
+  <img src="https://cdn.simpleicons.org/javascript/ffffff" alt="JavaScript" height="40"/>
+  <img src="https://cdn.simpleicons.org/typescript/ffffff" alt="TypeScript" height="40"/>
+  <img src="https://cdn.simpleicons.org/tailwindcss/ffffff" alt="Tailwind CSS" height="40"/>
 </p>
-<p align="center">
-  <img src="https://cdn.simpleicons.org/bootstrap/000000" alt="Bootstrap" height="40"/>
-  <img src="https://cdn.simpleicons.org/express/000000" alt="Express" height="40"/>
-  <img src="https://cdn.simpleicons.org/node-dot-js/000000" alt="Node.js" height="40"/>
-  <img src="https://cdn.simpleicons.org/mongodb/000000" alt="MongoDB" height="40"/>
-  <img src="https://cdn.simpleicons.org/sqlite/000000" alt="SQLite" height="40"/>
-  <img src="https://cdn.simpleicons.org/firebase/000000" alt="Firebase" height="40"/>
-  <img src="https://cdn.simpleicons.org/postman/000000" alt="Postman" height="40"/>
-  <img src="https://cdn.simpleicons.org/figma/000000" alt="Figma" height="40"/>
+<p>
+  <img src="https://cdn.simpleicons.org/bootstrap/ffffff" alt="Bootstrap" height="40"/>
+  <img src="https://cdn.simpleicons.org/express/ffffff" alt="Express" height="40"/>
+  <img src="https://cdn.simpleicons.org/node-dot-js/ffffff" alt="Node.js" height="40"/>
+  <img src="https://cdn.simpleicons.org/mongodb/ffffff" alt="MongoDB" height="40"/>
+  <img src="https://cdn.simpleicons.org/sqlite/ffffff" alt="SQLite" height="40"/>
+  <img src="https://cdn.simpleicons.org/firebase/ffffff" alt="Firebase" height="40"/>
+  <img src="https://cdn.simpleicons.org/postman/ffffff" alt="Postman" height="40"/>
+  <img src="https://cdn.simpleicons.org/figma/ffffff" alt="Figma" height="40"/>
 </p>
+
 
 
 
