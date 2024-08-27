@@ -16,9 +16,6 @@ better responsivness, few extra features and a deployment.</p>
 You can check the repos under this intro
 
 Tech-Stack I focus on:
-
-[![My Skills](https://skillicons.dev/icons?i=react,html,css,javascript,typescript,tailwind,bootstrap,express,nodejs,mongodb,sqlite,firebase,postman,figma&perline=7)](https://skillicons.dev)
-
 <p>
   <img src="https://cdn.simpleicons.org/react/ffffff" alt="React" height="40"/>
   <img src="https://cdn.simpleicons.org/html5/ffffff" alt="HTML5" height="40"/>
