@@ -30,7 +30,7 @@ Tech-Stack I focus on:
 <p>
   <img src="https://cdn.simpleicons.org/bootstrap/ffffff" alt="Bootstrap" height="40"/>
   <img src="https://cdn.simpleicons.org/express/ffffff" alt="Express" height="40"/>
-  <img src="https://cdn.simpleicons.org/node-dot-js/ffffff" alt="Node.js" height="40"/>
+  <img src="https://cdn.simpleicons.org/node/ffffff" alt="Node.js" height="40"/>
   <img src="https://cdn.simpleicons.org/mongodb/ffffff" alt="MongoDB" height="40"/>
   <img src="https://cdn.simpleicons.org/sqlite/ffffff" alt="SQLite" height="40"/>
   <img src="https://cdn.simpleicons.org/firebase/ffffff" alt="Firebase" height="40"/>
