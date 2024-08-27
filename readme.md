@@ -12,7 +12,7 @@ You can check the repo here
 My tech stack:
 React | JavaScript | TypeScript | Tailwind | Bootstrap | Express.js | Node.js MongoDB Postman Firebase 
 
-  [![My Skills](https://skillicons.dev/icons?i=java,kotlin,nodejs,figma&theme=dark)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=react,javascript,nodejs,figma&)](https://skillicons.dev)
 
 
 - 📫 How to reach me: ...
