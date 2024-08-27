@@ -2,8 +2,8 @@
 
 ✨ I am Vaclav - a Web Developer based in Berlin, nice to meet you. 
 
-<p>💭 Currently working on my most recent project "BobbleHeads - twisted e-commerce",<br> 
-It is made with MERN-Stack: React, Node.js, Express.js, MongoDB.<br>
+<p>Currently working on my most recent project "BobbleHeads - twisted e-commerce".<br> 
+It is made with MERN-Stack: React, Node.js, Express.js, MongoDB, TS.<br>
 The app is functional, but still needs some styles polishing,<br>
 better responsivness, few extra features and a deployment.</p>
 
