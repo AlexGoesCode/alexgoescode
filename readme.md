@@ -15,10 +15,10 @@ Tech-Stack I focus on:
 
   [![My Skills](https://skillicons.dev/icons?i=react,html,css,javascript,typescript,tailwind,bootstrap,express,nodejs,mongodb,sqlite,firebase,postman,figma&perline=7)](https://skillicons.dev)
 
+reach me at: 
+v.kyslik@gmail.com
+https://www.linkedin.com/in/vaclav-kyslik/
 
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 
 <!--
 **AlexGoesCode/alexgoescode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
