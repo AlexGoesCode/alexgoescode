@@ -14,11 +14,14 @@ Tech-Stack I focus on:
 
 [![My Skills](https://skillicons.dev/icons?i=react,html,css,javascript,typescript,tailwind,bootstrap,express,nodejs,mongodb,sqlite,firebase,postman,figma&perline=7)](https://skillicons.dev)
 
+
+I am currently seeking a new job opportunity so hit me up :)
+
 reach me at: 
-v.kyslik@gmail.com
+v.kyslik@gmail.com<br>
 https://www.linkedin.com/in/vaclav-kyslik/
 
-I 
+
 
 
 <!--
