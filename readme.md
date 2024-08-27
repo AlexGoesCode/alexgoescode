@@ -26,7 +26,7 @@ https://www.linkedin.com/in/vaclav-kyslik/
 
 https://user-images.githubusercontent.com/74038190/212900420-11d6daeb-4bcd-474f-ad58-86c47d25b541.gif
 
-![image](https://github.com/user-attachments/assets/eff2fd00-c1b8-48dc-96f2-90df025818a1)
+![gif](https://github.com/user-attachments/assets/eff2fd00-c1b8-48dc-96f2-90df025818a1)
 
 
 
