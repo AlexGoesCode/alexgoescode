@@ -2,8 +2,8 @@
 
 ✨ I am Vaclav - a Junior Web Developer based in Berlin.
 
-<p>Currently working on my most recent project "BobbleHeads - twisted e-commerce",</p> 
-<p>which still needs some polishing, better responsivness and a deployment.</p>
+<p>Currently working on my most recent project "BobbleHeads - twisted e-commerce",<br> 
+which still needs some polishing, better responsivness and a deployment.</p>
 
 <p>It is a satirical e-commerce style webshop,</p> 
 <p>selling funny figures of politicians and powerful people.</p>
