@@ -1,23 +1,23 @@
 ## Hello stranger!
 
-✨ I am Vaclav - a Junior Web Developer based in Berlin.
+✨ I am Vaclav - a Web Developer based in Berlin, nice to meet you. 
 
-💭<p> Currently working on my most recent project "BobbleHeads - twisted e-commerce",<br> 
-which still needs some polishing, better responsivness and a deployment.</p>
+<p>💭 Currently working on my most recent project "BobbleHeads - twisted e-commerce",<br> 
+which still needs some styles polishing, better responsivness and a deployment.</p>
 
-<p>It is a satirical e-commerce style webshop,</p> 
+<p>It is a satirical e-commerce style webshop, which is</p> 
 <p>selling funny figures of politicians and powerful people.</p>
 
 You can check the repo here
 
 Tech-Stack I focus on:
-
-
-  [![My Skills](https://skillicons.dev/icons?i=react,html,css,javascript,typescript,tailwind,bootstrap,express,nodejs,mongodb,sqlite,firebase,postman,figma&perline=7)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=react,html,css,javascript,typescript,tailwind,bootstrap,express,nodejs,mongodb,sqlite,firebase,postman,figma&perline=7)](https://skillicons.dev)
 
 reach me at: 
 v.kyslik@gmail.com
 https://www.linkedin.com/in/vaclav-kyslik/
+
+I 
 
 
 <!--
