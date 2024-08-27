@@ -3,7 +3,9 @@
 ✨ I am Vaclav - a Web Developer based in Berlin, nice to meet you. 
 
 <p>💭 Currently working on my most recent project "BobbleHeads - twisted e-commerce",<br> 
-which still needs some styles polishing, better responsivness and a deployment.</p>
+It is made with MERN-Stack: React, Node.js, Express.js, MongoDB.<br>
+The app is functional, but still needs some styles polishing,<br>
+better responsivness, few extra features and a deployment.</p>
 
 <p>It is a satirical e-commerce style webshop, which is<br> 
 selling funny figures of politicians and powerful people.</p>
@@ -17,7 +19,7 @@ Tech-Stack I focus on:
 
 I am currently seeking a new job opportunity so hit me up :)
 
-reach me at: 
+reach me at:<br> 
 v.kyslik@gmail.com<br>
 https://www.linkedin.com/in/vaclav-kyslik/
 
