@@ -19,14 +19,24 @@ Tech-Stack I focus on:
 
 [![My Skills](https://skillicons.dev/icons?i=react,html,css,javascript,typescript,tailwind,bootstrap,express,nodejs,mongodb,sqlite,firebase,postman,figma&perline=7)](https://skillicons.dev)
 
-- ![React](https://cdn.simpleicons.org/react/000000) React
-- ![HTML5](https://cdn.simpleicons.org/html5/000000) HTML
-- ![CSS3](https://cdn.simpleicons.org/css3/000000)
-- ![JavaScript](https://cdn.simpleicons.org/javascript/000000)
-- ![TypeScript](https://cdn.simpleicons.org/typescript/000000)
-- ![Tailwind CSS](https://cdn.simpleicons.org/tailwindcss/000000)
-
-![Bootstrap](https://cdn.simpleicons.org/bootstrap/000000) ![Express](https://cdn.simpleicons.org/express/000000) ![Node.js](https://cdn.simpleicons.org/node-dot-js/000000) ![MongoDB](https://cdn.simpleicons.org/mongodb/000000) ![SQLite](https://cdn.simpleicons.org/sqlite/000000) ![Firebase](https://cdn.simpleicons.org/firebase/000000) ![Postman](https://cdn.simpleicons.org/postman/000000) ![Figma](https://cdn.simpleicons.org/figma/000000)
+<p align="center">
+  <img src="https://cdn.simpleicons.org/react/000000" alt="React" height="40"/>
+  <img src="https://cdn.simpleicons.org/html5/000000" alt="HTML5" height="40"/>
+  <img src="https://cdn.simpleicons.org/css3/000000" alt="CSS3" height="40"/>
+  <img src="https://cdn.simpleicons.org/javascript/000000" alt="JavaScript" height="40"/>
+  <img src="https://cdn.simpleicons.org/typescript/000000" alt="TypeScript" height="40"/>
+  <img src="https://cdn.simpleicons.org/tailwindcss/000000" alt="Tailwind CSS" height="40"/>
+</p>
+<p align="center">
+  <img src="https://cdn.simpleicons.org/bootstrap/000000" alt="Bootstrap" height="40"/>
+  <img src="https://cdn.simpleicons.org/express/000000" alt="Express" height="40"/>
+  <img src="https://cdn.simpleicons.org/node-dot-js/000000" alt="Node.js" height="40"/>
+  <img src="https://cdn.simpleicons.org/mongodb/000000" alt="MongoDB" height="40"/>
+  <img src="https://cdn.simpleicons.org/sqlite/000000" alt="SQLite" height="40"/>
+  <img src="https://cdn.simpleicons.org/firebase/000000" alt="Firebase" height="40"/>
+  <img src="https://cdn.simpleicons.org/postman/000000" alt="Postman" height="40"/>
+  <img src="https://cdn.simpleicons.org/figma/000000" alt="Figma" height="40"/>
+</p>
 
 
 
