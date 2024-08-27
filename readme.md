@@ -1,6 +1,6 @@
-## Hey there stranger!
+## Hello stranger!
 
-I am Vaclav 👋 a Junior Web Developer based in Berlin.
+✨ I am Vaclav - a Junior Web Developer based in Berlin.
 
 <p>Currently working on my most recent project "BobbleHeads - twisted e-commerce",</p> 
 <p>which still needs some polishing, better responsivness and a deployment.</p>
