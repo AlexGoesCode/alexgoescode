@@ -5,7 +5,7 @@
 ✨ I am Vaclav - a former cook who turned Web Developer, nice to meet you. 
 
 <p>→ Currently working on my most recent project "BobbleHeads - twisted e-commerce".<br> 
-→ It is made with MERN-Stack: React, Node.js, Express.js, MongoDB, TS.<br>
+→ It is made with MERN-Stack: React, Node.js, Express.js, MongoDB, front: TS, back: JS .<br>
 
 <p>It is a satirical e-commerce style webshop, which is<br> 
 selling funny figures of politicians and powerful people.<br>
