@@ -1,15 +1,15 @@
-<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/80728820-e06b-4f96-9c9e-9df46f0cc0a5" width="800">
+<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/80728820-e06b-4f96-9c9e-9df46f0cc0a5" width="750">
 
 <h3>Hello stranger!</h3>
 
 ✨ I am Vaclav - a former cook who turned Web Developer, nice to meet you. 
 
 <p>→ Currently polishing my recently deployed project BobbleHeads "https://bobbleheads.vercel.app".<br> 
-→ It is made with MERN-Stack: React, Node.js, Express.js, MongoDB & Tailwind CSS. Front-end: TS, Back-end: JS .<br>
+→ Made with MERN-Stack: React, Node.js, Express.js, MongoDB & Tailwind CSS. Front: TS | Back: JS .<br>
 
 <p>BobbleHeads app is a satirical e-commerce app, which is mocking politicians, powerful people<br>
 and selling their BobbleHead figures. The product images are custom made with AI.<br>
-The app is functional and responsive, only need to improve the response time and optionally add extra features.</p>
+The app is functional and responsive, only need to improve the response time and opt. add extra features.</p>
 
 You can check the repos under this intro
 
@@ -34,7 +34,7 @@ Tech-Stack I focus on:
 
 
 
-I am currently seeking a new job opportunity in Berlin or remote, so hit me up :)
+I am currently seeking a junior web dev position in Berlin or remote, so hit me up!
 
 reach me at:<br> 
 v.kyslik@gmail.com<br>
