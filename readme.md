@@ -4,12 +4,12 @@
 
 ✨ I am Vaclav - a former cook who turned Web Developer, nice to meet you. 
 
-<p>→ Currently polishing my recently deployed project **BobbleHeads** "https://bobbleheads.vercel.app".<br> 
+<p>→ Currently polishing my recently deployed project BobbleHeads "https://bobbleheads.vercel.app".<br> 
 → It is made with MERN-Stack: React, Node.js, Express.js, MongoDB & Tailwind CSS. Front-end: TS, Back-end: JS .<br>
 
-<p>BobbleHeads app is a satirical e-commerce app, which is<br> 
-mocking politicians and powerful people and selling their BobbleHead figures.<br>
-Product images are custom made with AI. The app is functional and responsive.</p>
+<p>BobbleHeads app is a satirical e-commerce app, which is mocking politicians, powerful people<br>
+and selling their BobbleHead figures. The product images are custom made with AI.<br>
+The app is functional and responsive, only need to improve the response time and optionally add extra features.</p>
 
 You can check the repos under this intro
 
