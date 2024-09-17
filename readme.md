@@ -4,7 +4,7 @@
 
 ✨ I am Vaclav - a former cook who turned Web Developer, nice to meet you. 
 
-<p>→ Currently polishing my recently deployed project [BobbleHeads](https://bobbleheads.vercel.app).<br> 
+<p>→ Currently polishing my recently deployed project BobbleHeads "https://bobbleheads.vercel.app)".<br> 
 → It is made with MERN-Stack: React, Node.js, Express.js, MongoDB, front: TS, back: JS .<br>
 
 <p>It is a satirical e-commerce style webshop, which is<br> 
