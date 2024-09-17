@@ -4,14 +4,13 @@
 
 ✨ I am Vaclav - a former cook who turned Web Developer, nice to meet you. 
 
-<p>→ Currently working on my most recent project "BobbleHeads - twisted e-commerce".<br> 
+<p>→ Currently polishing my recently deployed project ["BobbleHeads"](https://bobbleheads.vercel.app).<br> 
 → It is made with MERN-Stack: React, Node.js, Express.js, MongoDB, front: TS, back: JS .<br>
 
 <p>It is a satirical e-commerce style webshop, which is<br> 
 selling funny figures of politicians and powerful people.<br>
 Product images are custom made with AI.<br>
-The app is functional, but still needs some styles polishing,<br>
-better responsivness, few extra features and a deployment.</p>
+The app is functional and responsive, .</p>
 
 You can check the repos under this intro
 
