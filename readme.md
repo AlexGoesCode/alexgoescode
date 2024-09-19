@@ -9,9 +9,9 @@
 
 <p>BobbleHeads app is a satirical e-commerce app, which is mocking politicians, powerful people<br>
 and selling their BobbleHead figures. The product images are custom made with AI.<br>
-The app is functional and responsive, only need to improve the response time and opt. add extra features.</p>
+The app is functional and responsive, only needs to improve loading times as it's a bit slow.
 
-You can check the repos under this intro
+You can check other projects repos under this intro.
 
 Tech-Stack I focus on:
 <p>
