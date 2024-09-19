@@ -11,6 +11,9 @@
 and selling their BobbleHead figures. The product images are custom made with AI.<br>
 The app is functional and responsive, only needs to improve loading times as it's a bit slow.
 
+<img src="https://res.cloudinary.com/dkripctbz/image/upload/v1726749951/mockup-of-a-macbook-placed-on-a-desk-near-a-coffee-cup-m35907_trofgu.png" width="400" alt="Project Image"/>
+
+
 You can check other projects repos under this intro.
 
 Tech-Stack I focus on:
