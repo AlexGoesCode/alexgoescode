@@ -8,8 +8,17 @@
 → Made with MERN-Stack: React, Node.js, Express.js, MongoDB & Tailwind CSS. Front: TS | Back: JS .<br>
 
 <p>BobbleHeads app is a satirical e-commerce app, which is mocking politicians, powerful people<br>
-and selling their BobbleHead figures. The product images are custom made with AI.<br>
-The app is functional and responsive, only needs to improve loading times as it's a bit slow.
+and selling their BobbleHead figures. The project shows my capability to create and deploy<br>
+a fully responsive e-commerce app with it's basic features.
+At the moment it only needs to improve loading times as it's a bit slow.<br>
+The product images are custom made with AI. It is my second full stack project made with MERN.
+
+<p>→ My first finished MERN stack project (but recently deployed) is 'Curated-Recipes' "https://curated-recipes.vercel.app".<br>
+→ React, Node.js, Express.js, MongoDB & Tailwind CSS. Front: TS | Back: JS .<br>
+
+<p> Curated-Recipes app is a recipes database where user can search, save/like and create his own recipes.
+The project shows my experience working with a database with it's basic features.
+
 
 You can check other projects repos under this intro.
 
