@@ -9,7 +9,7 @@
 
 <p>BobbleHeads app is a satirical e-commerce app, which is mocking politicians, powerful people<br>
 and selling their BobbleHead figures. The project shows my capability to create and deploy<br>
-a fully responsive e-commerce app with it's basic features and custom made API and items.
+a fully responsive e-commerce app with it's basic features and custom made API and items.<br>
 At the moment it only needs to improve loading times as it's a bit slow.<br>
 The product images are custom made with AI. It is my second full stack project made with MERN.
 
