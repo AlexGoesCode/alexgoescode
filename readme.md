@@ -16,8 +16,9 @@ The product images are custom made with AI. It is my second full stack project m
 <p>→ My first finished MERN stack project is 'Curated-Recipes' "https://curated-recipes.vercel.app".<br>
 → React, Node.js, Express.js, MongoDB & Tailwind CSS. Front: TS | Back: JS .<br>
 
-<p> Curated-Recipes app is a recipes database where user can search, filter, save/like and create his own recipes.<br>
-The project shows my experience with MERN stack, working with a custom made API database with it's basic features.
+<p> Curated-Recipes app is a recipes database app, where user can search, filter,<br> 
+save/like and create his own recipes. The project shows my experience with MERN stack<br>
+and working with a custom made API database with it's essential features.
 
 Tech-Stack I focus on:
 <p>
