@@ -20,6 +20,8 @@ The product images are custom made with AI. It is my second full stack project m
 save/like and create his own recipes. The project shows my experience with MERN stack<br>
 and working with a custom made API database with it's essential features.
 
+I am currently searching to land a junior web dev position in Berlin or remote, so hit me up!<br>
+
 Tech-Stack I focus on:
 <p>
   <img src="https://cdn.simpleicons.org/react/ffffff" alt="React" height="40"/>
@@ -38,10 +40,6 @@ Tech-Stack I focus on:
   <img src="https://cdn.simpleicons.org/figma/ffffff" alt="Figma" height="40"/>
 </p>
 
-
-
-
-I am currently seeking a junior web dev position in Berlin or remote, so hit me up!
 
 reach me at:<br> 
 v.kyslik@gmail.com<br>
