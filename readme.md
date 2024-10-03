@@ -20,6 +20,9 @@ The product images are custom made with AI. It is my second full stack project m
 save/like and create his own recipes. The project shows my experience with MERN stack<br>
 and working with a custom made API database with it's essential features.
 
+For both apps, you can register your own account or use Login: test1@test.com | Password: 123456<br>
+Enjoy testing the app and if you have any hints, please let me know, I do value feedback.
+
 I am currently searching to land a junior web dev position in Berlin or remote, so hit me up!<br>
 
 Tech-Stack I focus on:
