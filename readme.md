@@ -13,7 +13,7 @@ a fully responsive e-commerce app with it's basic features and custom made API a
 At the moment it only needs to improve loading times as it's a bit slow.<br>
 The product images are custom made with AI. It is my second full stack project made with MERN.
 
-<p>→ My first finished MERN stack project is 'Curated-Recipes' "https://curated-recipes.vercel.app".<br>
+<p>→ My first finished MERN stack project was 'Curated-Recipes' "https://curated-recipes.vercel.app".<br>
 → React, Node.js, Express.js, MongoDB & Tailwind CSS. Front: TS | Back: JS .<br>
 
 <p> Curated-Recipes app is a recipes database app, where user can search, filter,<br> 
