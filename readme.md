@@ -5,7 +5,7 @@
 ✨ I am Vaclav - a former cook who turned Web Developer, nice to meet you. 
 
 <p>→ Currently polishing my recently deployed project BobbleHeads "https://bobbleheads.vercel.app".<br> 
-→ Made with MERN-Stack: React, Node.js, Express.js, MongoDB & Tailwind CSS. Front: TS | Back: JS .<br>
+→ React, Node.js, Express.js, MongoDB & Tailwind CSS. Front: TS | Back: JS .<br>
 
 <p>BobbleHeads app is a satirical e-commerce app, which is mocking politicians, powerful people<br>
 and selling their BobbleHead figures. The project shows my capability to create and deploy<br>
