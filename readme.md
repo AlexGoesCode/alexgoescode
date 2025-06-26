@@ -2,7 +2,7 @@
 
 <h3>Hello stranger!</h3>
 
-✨ I am Vaclav - a former cook who turned Web Developer, nice to meet you. 
+✨ I am Vaclav 'Alex' Kyslik - a former cook who turned Web Developer, nice to meet you. 
 
 <p>→ My second deployed MERN project is BobbleHeads "https://bobbleheads.vercel.app".<br> 
 → React, Node.js, Express.js, MongoDB & Tailwind CSS. Front: TS | Back: JS .<br>
